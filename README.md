@@ -30,3 +30,6 @@
 ##  Final Marks
 
 ![alt text](ft_transcendence.png)
+
+> [!NOTE]
+> Project is currently rebuilding with nest.js and mongoDB for a better online experience
